@@ -13,7 +13,7 @@ export default function GestureUI({ mode, handDetected, camStatus, trackerStatus
     <>
       <header className="pointer-events-none absolute left-0 top-0 z-[2] flex flex-col gap-3 pl-3 pr-4 pt-[calc(env(safe-area-inset-top,0px)+16px)] sm:pl-4">
         <div className="text-xs font-extrabold tracking-[0.3em] text-muted">
-          NEBULA<span className="text-accent">HEART</span>
+          LoveMotion<span className="text-accent">HEART</span>
         </div>
 
         {/* key={mode} re-runs the pop animation every time the mode changes */}
