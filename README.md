@@ -193,9 +193,13 @@ If camera permission is denied or unavailable, the application provides manual c
 
 ---
 
+## 🤖 AI Note
+
+Some of the code and implementation ideas in this project were generated with the help of AI.
+
 ## 👨‍💻 Author
 
-### Riyan Biswas
+### Md Riyan Biswas
 
 Frontend Developer & Computer Science Student
 
